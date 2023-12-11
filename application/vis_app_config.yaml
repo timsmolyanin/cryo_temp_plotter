@@ -1,0 +1,6 @@
+metrics: 
+  CH1 MeasureModule Temperature: '/devices/MeasureModuleOutputs/controls/CH1 MeasureModule Temperature'
+  CH2 MeasureModule Temperature: '/devices/MeasureModuleOutputs/controls/CH2 MeasureModule Temperature'
+  CH1 MeasureModule Current: '/devices/MeasureModuleOutputs/controls/CH1 MeasureModule Current'
+  CH2 MeasureModule Current: '/devices/MeasureModuleOutputs/controls/CH2 MeasureModule Current'
+  CH1 Heater Temperature Setpoint: '/devices/PIDControl/controls/CH1 Heater Temperature Setpoint'
